@@ -55,8 +55,8 @@ public class Guia6POOEj007 {
   s1.calcularIMC(persona3);
   s1.esMayorDeEdad(persona3);
   
-  //persona 2:
-  persona2 = s1.crearPersona();
+  //persona 4:
+  persona4 = s1.crearPersona();
   s1.calcularIMC(persona4);
   s1.esMayorDeEdad(persona4);
    
